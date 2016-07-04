@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController, UITextFieldDelegate {
     
+    //This is testing to see if I add a comment
+    
     let poundRate = 0.69
     let yenRate = 113.94
     let euroRate = 0.89
